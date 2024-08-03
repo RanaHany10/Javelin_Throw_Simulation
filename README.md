@@ -8,10 +8,14 @@ Javelin Throw Simulation is a project designed to model the physics of javelin t
 ## Features
 
 - Derivation of the mathematical model relating terminal distance to launching speed and firing angle
-- Calculation of the optimum firing angle for maximum distance
+- Calculation of the optimum firing angle for maximum distance 
 - Interactive simulation of the javelin's trajectory
 - User inputs for launching speed and firing angle
 - Output of the calculated throwing distance
+- Motion display speed control for the simulation
+
+## Simulation
+- The maximum distance is achieved when the firing angle (theta) is 45 degrees
 - Motion display speed control for the simulation
 
 ## Tools Used
