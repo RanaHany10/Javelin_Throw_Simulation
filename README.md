@@ -16,7 +16,10 @@ Javelin Throw Simulation is a project designed to model the physics of javelin t
 
 ## Simulation
 - The maximum distance is achieved when the firing angle (theta) is 45 degrees
+https://github.com/user-attachments/assets/ee80ddcf-af32-45d3-b104-a66c94b67af8
+
 - Motion display speed control for the simulation
+https://github.com/user-attachments/assets/a8840900-70c2-43a8-b582-342b4407f882
 
 ## Tools Used
 
